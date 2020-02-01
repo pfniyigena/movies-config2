@@ -1,0 +1,5 @@
+server:
+  port: 8181
+
+movie-web:
+  path: /v1/movie
