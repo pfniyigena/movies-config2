@@ -1,0 +1,5 @@
+movie:
+  directory: .
+  file-pattern: movies-all.txt
+  prevent-duplicates: true
+  fixed-delay: 5000
