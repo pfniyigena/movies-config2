@@ -3,3 +3,4 @@ movie:
   file-pattern: movies-all.txt
   prevent-duplicates: true
   fixed-delay: 5000
+  remoteService: http://localhost:8282/v2/test
