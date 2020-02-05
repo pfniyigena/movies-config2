@@ -4,4 +4,4 @@ spring:
       enabled: true
 
 movie-web:
-  path: /v1/movie
+  path: /v2/test
