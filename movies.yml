@@ -1,5 +1,5 @@
 movie:
   directory: .
-  file-pattern: movies-matrix.txt
+  file-pattern: movies-all.txt
   prevent-duplicates: true
   fixed-delay: 5000
