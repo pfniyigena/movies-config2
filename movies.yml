@@ -8,4 +8,4 @@ logging:
   level:
     com:
       apress:
-        cloud: DEBUG
+        cloud: INFO
