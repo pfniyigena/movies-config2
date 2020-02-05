@@ -1,6 +1,6 @@
 movie:
   directory: /tmp/movies
-  file-pattern: *.txt
+  file-pattern: "*.txt"
   prevent-duplicates: true
   fixed-delay: 5000
 
