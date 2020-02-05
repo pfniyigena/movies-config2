@@ -1,6 +1,11 @@
 movie:
-  directory: .
-  file-pattern: movies-all.txt
+  directory: /tmp/movies
+  file-pattern: *.txt
   prevent-duplicates: true
   fixed-delay: 5000
-  remoteService: http://localhost:8282/v2/test
+
+logging:
+  level:
+    com:
+      apress:
+        cloud: INFO
